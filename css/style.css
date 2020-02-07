@@ -1,0 +1,16 @@
+body {
+background-color: #111;
+font-family: Comic Sans MS, cursive, sans-serif;
+width: 500px;
+    margin: 100px auto 10px;
+    text-align: center;
+}
+h1 {
+color:mintcream;
+}
+a {
+color:darkcyan;
+}
+footer {
+    margin-bottom: 0px;
+}
